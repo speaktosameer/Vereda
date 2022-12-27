@@ -1,0 +1,38 @@
+.newsletter {
+  background:#318AD4;
+
+  padding: 60px;
+  border-radius: 15px;
+}
+
+.newsletter h2 {
+  color: #fff;
+}
+.subscribe input {
+  border: none;
+  outline: none;
+}
+
+.subscribe {
+  padding: 10px 10px;
+  background: #fff;
+  width: 45%;
+  margin: auto;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.subbtn{
+  background-color: #318AD4; /* Green */
+  border-radius: 10px;
+  border-color: white ;
+  color: white;
+  padding: 5px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
