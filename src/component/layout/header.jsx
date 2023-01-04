@@ -71,7 +71,7 @@ const Header = () => {
                                 <ul className={`lab-ul ${menuToggle ? "active" : ""}`}>
                                     <li><NavLink to="/">Home</NavLink></li>
                                     <li><NavLink to="/course">Courses</NavLink></li>
-                                    <li><NavLink to="/blog">Blog</NavLink></li>
+                                    {/* <li><NavLink to="/blog">Blog</NavLink></li> */}
                                     <li><NavLink to="/about">About</NavLink></li>
                                     <li><NavLink to="/contact">Contact</NavLink></li>
                                 </ul>
