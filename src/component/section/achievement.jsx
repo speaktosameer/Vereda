@@ -26,7 +26,7 @@ const achievementList = [
 
 const achieveList = [
     {
-        imgUrl: 'assets/images/achive/01.png',
+        imgUrl: '../../assets/images/achive.01.png',
         imgAlt: 'achive thumb vereda vereda',
         title: 'Start Teaching Today',
         desc: 'Seamlessly engage technically sound coaborative reintermed goal oriented content rather than ethica',
@@ -34,7 +34,7 @@ const achieveList = [
         siteLink: '#',
     },
     {
-        imgUrl: 'assets/images/achive/02.png',
+        imgUrl: '../../assets/images/achive.02.png',
         imgAlt: 'achive thumb vereda vereda',
         title: 'If You Join Our Course',
         desc: 'Seamlessly engage technically sound coaborative reintermed goal oriented content rather than ethica',
@@ -69,7 +69,7 @@ const Achievement = () => {
                             ))}
                         </div>
                     </div>
-                    <div className="achieve-part">
+                    {/* <div className="achieve-part">
                         <div className="row g-4 row-cols-1 row-cols-lg-2">
                             {achieveList.map((val, i) => (
                                 <div className="col" key={i}>
@@ -88,7 +88,7 @@ const Achievement = () => {
                                 </div>
                             ))}
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>
