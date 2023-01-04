@@ -28,7 +28,7 @@ const blogList = [
         imgUrl: 'assets/images/blog/12.jpg',
         imgAlt: 'blog thumb vereda vereda',
         title: 'Learn Basic Web Design with PHP and Laravel',
-        author: 'Rajib Raj',
+        author: 'Himanshu ',
         date: 'April 23,2022',
         desc: 'Proactively enhance prospective resources for next generation convergence. Dramatically myocardinate high-quality vortals through transparent.',
         btnText: 'Read More',

@@ -78,7 +78,7 @@ const courseList = [
         schdule: 'Online Class',
         authorImgUrl: 'assets/images/course/author/05.jpg',
         authorImgAlt: 'course author vereda vereda',
-        authorName: 'Rajib Raj',
+        authorName: 'Himanshu ',
         btnText: 'Read More',
     },
     {

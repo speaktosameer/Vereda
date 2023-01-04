@@ -52,23 +52,23 @@ const CourseSingle = () => {
                                                     <ul className="lab-ul video-item-list">
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">1.1 Welcome to the course 02:30 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">1.2 How to set up your photoshop workspace  08:33 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">1.3 Essential Photoshop Tools 03:38 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">1.4 Finding inspiration 02:30 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">1.5 Choosing Your Format 03:48 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -81,23 +81,23 @@ const CourseSingle = () => {
                                                     <ul className="lab-ul video-item-list">
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">2.1 Using Adjustment Layers 06:20 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">2.2 Building the composition 07:33 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">2.3 Photoshop Lighting effects 06:30 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">2.4 Digital Painting using photoshop brushes 08:34 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                         <li className=" d-flex flex-wrap justify-content-between">
                                                             <div className="video-item-title">2.5 Finalizing the details 10:30 minutes</div>
-                                                            <div className="video-item-icon"><a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
+                                                            <div className="video-item-icon"><a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="popup" target="_blank"><i className="icofont-play-alt-2"></i></a></div>
                                                         </li>
                                                     </ul>
                                                 </div>

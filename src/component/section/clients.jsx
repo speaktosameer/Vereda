@@ -18,7 +18,7 @@ const clientList = [
         imgUrl: 'assets/images/clients/02.jpg',
         imgAlt: 'education thumb vereda vereda',
         desc: 'Dynamically impact tactical methods of empowerment through ubiquitous methodologies. Global utilize robust services without integrated process improvements. Completely leverage existing niche markets via exceptional leadership skills.',
-        name: 'Rajib Raj',
+        name: 'Himanshu ',
         degi: 'Assistant principal',
     },
     {

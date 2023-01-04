@@ -3,9 +3,9 @@ import Rating from "../sidebar/rating";
 
 const title = "Advanced Adobe Photoshop For Everyone";
 const desc = "The most impressive is collection of share me online college courses";
-const author = "Rajib Raj";
+const author = "Himanshu ";
 const reviewCount = "03 reviews";
-const videoLink = "https://www.youtube-nocookie.com/embed/jP649ZHA8Tg";
+const videoLink = "https://www.youtube.com/embed/MU3qrgR2Kkc";
 
 
 const categoryList = [

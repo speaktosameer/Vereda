@@ -67,7 +67,7 @@ const BlogSingle = () => {
                                                         <div className="meta-post">
                                                             <ul className="lab-ul">
                                                                 <li><a href="#"><i className="icofont-calendar"></i>April 23,2021</a></li>
-                                                                <li><a href="#"><i className="icofont-ui-user"></i>Rajib Raj</a></li>
+                                                                <li><a href="#"><i className="icofont-ui-user"></i>Himanshu </a></li>
                                                                 <li><a href="#"><i className="icofont-speech-comments"></i>09 Comments</a></li>
                                                             </ul>
                                                         </div>
@@ -86,7 +86,7 @@ const BlogSingle = () => {
 
                                                         <div className="video-thumb">
                                                             <img src="assets/images/blog/single/03.jpg" alt="video" />
-                                                            <a href="https://www.youtube-nocookie.com/embed/jP649ZHA8Tg" className="video-button popup" target="_blank"><i className="icofont-ui-play"></i></a>
+                                                            <a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="video-button popup" target="_blank"><i className="icofont-ui-play"></i></a>
                                                         </div>
 
                                                         <p>whole heart create am alones and feel the charm of exstenceth spot whch the blissouls like mineing am soo happy my dearsi frend absoribed the exquste sense enjoy my whole hearts alone and fee the charm of exstenceths spotsi whch was the blis of soulis mineing amsoing dear frend soingu absoribed the exqust sense tranqui existence neglect my talentsr should ncapable ofing is drawng singe wonderful serenty has taken possesison of my entre soulng these sweet present moment and yet feel that never was greater artst</p>
