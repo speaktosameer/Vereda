@@ -65,12 +65,12 @@ const Instructor = () => {
                                             <Rating />
                                         </div>
                                     </div>
-                                    <div className="instructor-footer">
+                                    {/* <div className="instructor-footer">
                                         <ul className="lab-ul d-flex flex-wrap justify-content-between align-items-center">
                                             <li><i className="icofont-book-alt"></i> {val.courseCount}</li>
                                             <li><i className="icofont-users-alt-3"></i> {val.studentAnroll}</li>
                                         </ul>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         ))}

@@ -8,7 +8,7 @@ const address = "Sinha Library road, Venture park Patna";
 
 let socialList = [
     {
-        iconName: 'icofont-facebook-messenger',
+        iconName: 'icofont-facebook',
         siteLink: '#',
     },
     {
@@ -16,15 +16,11 @@ let socialList = [
         siteLink: '#',
     },
     {
-        iconName: 'icofont-vimeo',
+        iconName: 'icofont-instagram',
         siteLink: '#',
     },
     {
-        iconName: 'icofont-skype',
-        siteLink: '#',
-    },
-    {
-        iconName: 'icofont-rss-feed',
+        iconName: 'icofont-twitter',
         siteLink: '#',
     },
 ]

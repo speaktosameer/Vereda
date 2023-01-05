@@ -1,5 +1,5 @@
 
-
+import { Link, NavLink } from "react-router-dom";
 import BannerImg from '../../assets/images/banner/hero1.png'
 const subTitle = "Online education";
 const title = <h2 className="title"><span className="d-lg-block">Up Your Skills</span> To Advance Your <span className="d-lg-block">Carrer Path</span></h2>;
@@ -66,12 +66,15 @@ const Banner = () => {
                                 {title}
                                 <p className="desc">{desc}</p>
                                 <form action="/">
-                                    <div className="banner-icon">
+                                    {/* <div className="banner-icon">
                                         <i className="icofont-search"></i>
                                     </div>
-                                    <input type="text" placeholder="Keywords of your course" />
-                                    <button type="submit">Search Course</button>
+                                    <input type="text" placeholder="Keywords of your course" /> */}
+                                    <button type="#">Get Started</button>
+                                    <button type="#">Get Free Trial</button>
+
                                 </form>
+                                
                                 <div className="banner-catagory d-flex flex-wrap">
                                     <p>Most Popular : </p>
                                     <ul className="lab-ul d-flex flex-wrap">

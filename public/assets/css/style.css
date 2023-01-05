@@ -3021,8 +3021,7 @@ button {
 }
 .banner-section .section-wrapper .banner-content form {
   background: #fff;
-  justify-content: space-between;
-  box-shadow: 0 5px 10px rgba(16, 17, 21, 0.1);
+  justify-content: flex-start;
 }
 .banner-section .section-wrapper .banner-content form .banner-icon {
   left: 15px;
@@ -3038,10 +3037,8 @@ button {
   padding: 18px;
   padding-left: 40px;
 }
-.banner-section .section-wrapper .banner-content form button {
-  color: #fff;
-  background: #318ad4;
-}
+
+
 .banner-section .section-wrapper .banner-content .banner-catagory {
   margin-top: 25px;
 }
