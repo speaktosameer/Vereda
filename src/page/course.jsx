@@ -24,6 +24,7 @@ const courseList = [
         authorImgAlt: 'course author vereda vereda',
         authorName: 'Kingsley Orji',
         btnText: 'Read More',
+        coursedtl: '/course-single',
     },
     {
         imgUrl: 'assets/images/course/02.jpg',
@@ -38,6 +39,7 @@ const courseList = [
         authorImgAlt: 'course author vereda vereda',
         authorName: 'Hermant Kumar',
         btnText: 'Read More',
+        coursedtl: '/course-single1',
     },
     // {
     //     imgUrl: 'assets/images/course/03.jpg',
@@ -142,7 +144,7 @@ const CoursePage = () => {
                                                         <span className="ratting-count"> {val.reviewCount}</span>
                                                     </div> */}
                                                 </div>
-                                                <Link to="/course-single"><h4>{val.title}</h4></Link>
+                                                <Link to={val.coursedtl}><h4>{val.title}</h4></Link>
                                                 <div className="course-details">
                                                     <div className="couse-count"><i className="icofont-video-alt"></i> {val.totalLeson}</div>
                                                     <div className="couse-topic"><i className="icofont-signal"></i> {val.schdule}</div>
@@ -153,7 +155,7 @@ const CoursePage = () => {
                                                         <Link to="/team-single" className="ca-name">{val.authorName}</Link>
                                                     </div>
                                                     <div className="course-btn">
-                                                        <Link to="/course-single" className="lab-btn-text">{val.btnText} <i className="icofont-external-link"></i></Link>
+                                                        <Link to={val.coursedtl} className="lab-btn-text">{val.btnText} <i className="icofont-external-link"></i></Link>
                                                     </div>
                                                 </div>
                                             </div>

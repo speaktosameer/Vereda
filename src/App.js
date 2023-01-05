@@ -11,6 +11,7 @@ import BlogSingle from "./page/blog-single";
 import ContactPage from "./page/contact";
 import CoursePage from "./page/course";
 import CourseSingle from "./page/course-single";
+import CourseSingle1 from "./page/course-single1";
 import Home from "./page/home";
 
 
@@ -24,6 +25,7 @@ function App() {
 				<Route path="/" element={<Home />} />
 				<Route path="course" element={<CoursePage />} />
 				<Route path="course-single" element={<CourseSingle />} />
+				<Route path="course-single1" element={<CourseSingle1 />} />
 				<Route path="blog" element={<BlogPage />} />
 				<Route path="blog-single" element={<BlogSingle />} />
 				<Route path="about" element={<AboutPage />} />

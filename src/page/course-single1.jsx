@@ -1,7 +1,7 @@
 import { Component, Fragment } from "react";
 import Footer from "../component/layout/footer";
 import Header from "../component/layout/header";
-import PageHeaderTwo from "../component/layout/pageheader-2";
+import PageHeaderThree from "../component/layout/pageheader-3";
 import Author from "../component/sidebar/author";
 import Comment from "../component/sidebar/comment";
 import CourseSideCetagory from "../component/sidebar/course-cetagory";
@@ -9,11 +9,11 @@ import CourseSideDetail from "../component/sidebar/course-detail";
 import Respond from "../component/sidebar/respond";
 
 
-const CourseSingle = () => {
+const CourseSingle1 = () => {
     return (
         <Fragment>
             <Header />
-            <PageHeaderTwo />
+            <PageHeaderThree />
             <div className="course-single-section padding-tb section-bg">
                 <div className="container">
                     <div className="row justify-content-center">
@@ -124,4 +124,4 @@ const CourseSingle = () => {
     );
 }
 
-export default CourseSingle;
+export default CourseSingle1;

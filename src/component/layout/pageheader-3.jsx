@@ -1,8 +1,8 @@
 
 import Rating from "../sidebar/rating";
 
-const title = "Full Stack Web Development";
-const desc = "Learn full Stack developement and become a Professional Developer with a Certificate";
+const title = "Flutter Development";
+const desc = "Become a flutter developer by learning from the best, and get ready for a job as a Flutter Developer";
 const author = "Himanshu ";
 const reviewCount = "03 reviews";
 const videoLink = "https://www.youtube.com/embed/MU3qrgR2Kkc";
@@ -11,7 +11,7 @@ const videoLink = "https://www.youtube.com/embed/MU3qrgR2Kkc";
 const categoryList = [
     {
         link: '#',
-        text: 'Web Development',
+        text: 'Mobile Development',
         className: 'course-cate',
     },
     {
@@ -22,7 +22,7 @@ const categoryList = [
 ]
 
 
-const PageHeaderTwo = () => {
+const PageHeaderThree = () => {
     return (
         <div className="pageheader-section style-2">
             <div className="container">
@@ -58,4 +58,4 @@ const PageHeaderTwo = () => {
     );
 }
  
-export default PageHeaderTwo;
+export default PageHeaderThree;
