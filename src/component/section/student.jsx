@@ -4,7 +4,7 @@ import Rating from "../sidebar/rating";
 
 
 const subTitle = "Loved by 200,000+ students";
-const title = "Students Community Feedback";
+const title = "Meet Our Founders";
 
 
 const studentList = [
@@ -30,7 +30,7 @@ const Student = () => {
         <div className="student-feedbak-section padding-tb shape-img">
             <div className="container">
                 <div className="section-header text-center">
-                    <span className="subtitle">{subTitle}</span>
+                    {/* <span className="subtitle">{subTitle}</span> */}
                     <h2 className="title">{title}</h2>
                 </div>
                 <div className="section-wrapper">
@@ -39,7 +39,7 @@ const Student = () => {
                             <div className="sf-left">
                                 <div className="sfl-thumb">
                                     <img src="assets/images/feedback/01.jpg" alt="student feedback" />
-                                    <a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="video-button popup" target="_blank"><i className="icofont-ui-play"></i></a>
+                                     {/* <a href="https://www.youtube.com/embed/MU3qrgR2Kkc" className="video-button popup" target="_blank"><i className="icofont-ui-play"></i></a>  */}
                                 </div>
                             </div>
                         </div>

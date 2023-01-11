@@ -3331,8 +3331,18 @@ button {
   /* background-image: url(../images/pageheader/bg/02.jpg); */
   background-color: white;
 }
+.pageheader-section.style-4 {
+  padding-top: 250px;
+  /* background-image: url(../images/pageheader/bg/02.jpg); */
+  background-color: #318AD4;
+}
 @media (max-width: 991px) {
   .pageheader-section.style-2 {
+    padding-bottom: 60px;
+    padding-top: 150px;
+  }
+@media (max-width: 991px) {
+  .pageheader-section.style-4 {
     padding-bottom: 60px;
     padding-top: 150px;
   }
@@ -3365,6 +3375,19 @@ button {
   -moz-border-radius: 100%;
   border-radius: 100%;
   background: rgba(255, 255, 255, 0.5);
+  top: 50%;
+  left: 10px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.pageheader-section.style-4 .pageheader-content .course-category .course-cate::before {
+  width: 6px;
+  height: 6px;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  background:#318AD4;
   top: 50%;
   left: 10px;
   -webkit-transform: translateY(-50%);

@@ -2197,12 +2197,12 @@
         width: 50%;
         height: 100%;
         top: 0;
-        border-bottom: 786px solid #318ad4;
-        border-right: 960px solid transparent;
-        @extend %d-none;
-        @include breakpoint(xxl) {
-            display: block
-        }
+        // border-bottom: 786px solid #318ad4;
+        // border-right: 960px solid transparent;
+        // @extend %d-none;
+        // @include breakpoint(xxl) {
+        //      display: block
+        // }
     }
     .section-wrapper {
         .sf-left {
